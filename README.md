@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Rahul Lodhi  <br>- 📫 How to reach me: [Email](mailto:rahul.lodhi39182@gmail.com) | [GitHub](https://github.com/RahulLodhi0405) | [LinkedIn](https://www.linkedin.com/in/rahullodhisdr)  <br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I enjoy solving algorithmic puzzles and can spend hours perfecting UI animations!  
+- 👋 Hi, I’m Rahul Lodhi  <br>- 📫 How to reach me: [Email](mailto:rahul.lodhi39182@gmail.com) | [GitHub](https://github.com/RahulLodhi0405) | [LinkedIn](https://www.linkedin.com/in/rahullodhisdr)  <br>-
 
 
 ## 🌐 Socials:
